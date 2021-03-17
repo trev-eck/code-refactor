@@ -6,13 +6,13 @@ The goal of this exercise was to improve the accessabilty of a given webpage to 
 
 ## Changes to the index.html
 
-The given website made extensive use of the <div> tag for multiple elements, which provides little information to search engines and screen readers. Multiple changes were made across the page to eliminate the use of <div> tags and to replace them with the correct semantic elements including:
+The given website made extensive use of the div tag for multiple elements, which provides little information to search engines and screen readers. Multiple changes were made across the page to eliminate the use of div tags and to replace them with the correct semantic elements including:
 
-<header>
-<main>
-<section>
-<aside>
-<footer>
+header
+main
+section
+aside
+footer
 
 Images were also provided with <alt> tags to improve accessability.
 
