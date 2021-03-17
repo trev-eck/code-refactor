@@ -18,7 +18,7 @@ Images were also provided with <alt> tags to improve accessability.
 
 ## Changes to the style.css
 
-The given style sheet had multiple places in which elements were styled with similar code, consilidated the style sheet to eliminate excess code that provided the same function.
+The given style sheet had multiple places in which elements were styled with similar code, consolidated the style sheet to eliminate excess code that provided the same function.
 
 ### See individual comments within the files for exact changes
 
